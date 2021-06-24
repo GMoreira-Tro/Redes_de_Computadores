@@ -49,7 +49,7 @@ int main(int argc, char* argv[])
             printf("%s\n", buffer);
 
         }
-        while(strcmp(buffer, "Luiz gay"));
+        while(strcmp(buffer, "Sayonara"));
 	}
 
 	close(socketID);

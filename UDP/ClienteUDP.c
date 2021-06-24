@@ -40,7 +40,7 @@ int main(int argc, char* argv[])
 		0, (const struct sockaddr *)&serverTarget, sizeof(serverTarget));
 
 	}
-	while (strcmp(message, "Luiz gay"));
+	while (strcmp(message, "Sayonara"));
 
     close(socketID);
     return 0;
